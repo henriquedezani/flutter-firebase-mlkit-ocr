@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415521903401",
+    "firebase_url": "https://mlkitocr-faa0e.firebaseio.com",
+    "project_id": "mlkitocr-faa0e",
+    "storage_bucket": "mlkitocr-faa0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415521903401:android:8171bbd053df2b35",
+        "android_client_info": {
+          "package_name": "com.example.mlkitocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415521903401-dvmv7io1mbn82h4q42gg2bgrgim5ta7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNlt0THbVaXCakntF92UD3imHOUi86xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415521903401-dvmv7io1mbn82h4q42gg2bgrgim5ta7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
